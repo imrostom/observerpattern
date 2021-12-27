@@ -1,5 +1,4 @@
 # PHP Observer Pattern
-<hr/>
 
 ## Input 
 ![Input](input.png)
