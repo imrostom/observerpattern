@@ -10,7 +10,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 
 // Observer pattern
-// Have 2 actor - Subject, Observer
+// Observer pattern Have 2 actor - Subject, Observer
 
 
 $newspaper = new Newspaper();
